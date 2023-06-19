@@ -49,7 +49,7 @@ ___
 Каждая таблица находится на отдельном сервере. 
 
 
-![]()
+![](https://github.com/VolkovMixail/12-07/blob/main/img/01.png)
 
 
 
